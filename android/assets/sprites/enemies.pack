@@ -1,0 +1,68 @@
+
+enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird
+  rotate: false
+  xy: 0, 216
+  size: 128, 24
+  orig: 128, 24
+  offset: 0, 0
+  index: -1
+appear
+  rotate: false
+  xy: 128, 192
+  size: 380, 48
+  orig: 380, 48
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 508, 192
+  size: 328, 48
+  orig: 328, 48
+  offset: 0, 0
+  index: -1
+die
+  rotate: false
+  xy: 0, 144
+  size: 510, 48
+  orig: 510, 48
+  offset: 0, 0
+  index: -1
+walk
+  rotate: false
+  xy: 510, 144
+  size: 240, 48
+  orig: 240, 48
+  offset: 0, 0
+  index: -1
+zombieappear
+  rotate: false
+  xy: 0, 96
+  size: 370, 48
+  orig: 370, 48
+  offset: 0, 0
+  index: -1
+zombieattack
+  rotate: false
+  xy: 370, 96
+  size: 385, 48
+  orig: 385, 48
+  offset: 0, 0
+  index: -1
+zombiedie
+  rotate: false
+  xy: 0, 48
+  size: 584, 48
+  orig: 584, 48
+  offset: 0, 0
+  index: -1
+zombiewalk
+  rotate: false
+  xy: 836, 0
+  size: 62, 240
+  orig: 62, 240
+  offset: 0, 0
+  index: -1
